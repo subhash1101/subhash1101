@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm B Jyothi Swaroop</h1>
+<h1 align="center">Hi 👋, I'm K Subhash</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
     🔭 I’m currently pursuing in 3rd Year of B-tech
