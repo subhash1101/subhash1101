@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm K Subhash</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-    🔭 I’m currently pursuing in 3rd Year of B-tech
+<h3 align="center">A passionate Full-Stack developer</h3>
 
-    🌱 I’m currently learning Full Stack
+🔭 I have completed my 4th year of B.Tech  
 
-    👯 I’m looking to collaborate with Full-Stack Developers
+🌱 I am continuously learning and improving my Full-Stack development skills  
 
-    💬 Ask me about: HTML, CSS, JS, C, PYTHON
+👯 I’m looking to collaborate with Full-Stack Developers  
 
-
+💬 Ask me about: HTML, CSS, JavaScript, C, Python, Java
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/subhash-kotha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopvitb" height="30" width="40" /></a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_vitb" height="30" width="40" /></a>
